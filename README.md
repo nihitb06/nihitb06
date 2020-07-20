@@ -1,5 +1,5 @@
 <p align="center">
-[!Banner Image](./banner.png)
+  <img src="banner.png" alt="Banner saying Hello, Nihit Here!" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nihitb06">
