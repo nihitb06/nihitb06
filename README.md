@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner saying Hello, Nihit Here!" />
+  <img src="https://raw.githubusercontent.com/nihitb06/nihitb06/master/banner.png" alt="Banner saying Hello, Nihit Here!" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nihitb06">
